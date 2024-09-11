@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Teleport
+  - Item
+  - drag
+  - drop
+  - PinTuTeleport
+  - WorkTeleport
+  - Click
+  - Click2
+  - Item2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BackGround
+  - Water
+  - UI
+  - Crash
+  - MiNIGame
+  - 
+  - Boundary
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 1190434499
+    locked: 0
+  - name: Middle
+    uniqueID: 1634386627
+    locked: 0
+  - name: Front
+    uniqueID: 3113662893
+    locked: 0
+  - name: Door
+    uniqueID: 3964203243
+    locked: 0
+  - name: Plants
+    uniqueID: 212747015
+    locked: 0
+  - name: Hide
+    uniqueID: 2171500011
+    locked: 0
+  - name: Animation
+    uniqueID: 394713601
+    locked: 0
